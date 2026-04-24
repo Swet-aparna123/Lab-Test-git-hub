@@ -1,2 +1,6 @@
 Hello, my name is Swetaparna Sahoo.
 I am a student learning Git and GitHub.
+Skills:
+- Python
+- Networking basics
+- Machine Learning basics
